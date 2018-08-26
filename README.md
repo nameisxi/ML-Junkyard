@@ -3,9 +3,9 @@
 
 # Contents
 * Kaggle
-    * [House Price Prediction Exercise](https://github.com/nameisxi/ML-Junkyard/#Kaggle)
+    * [House Price Prediction Exercise](https://github.com/nameisxi/ML-Junkyard/#kaggle)
 * FastAI
-    * [Lesson 1](https://github.com/nameisxi/ML-Junkyard/#FastAI)
+    * [Lesson 1](https://github.com/nameisxi/ML-Junkyard/#fastai)
     
 # Kaggle 
 ### House Price Prediction Exercise
