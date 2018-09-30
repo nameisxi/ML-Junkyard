@@ -7,8 +7,9 @@
     * [House Price Prediction Competition](https://github.com/nameisxi/ML-Junkyard/#house-price-prediction-competition)
     * [Digit Recognizer Competition](https://github.com/nameisxi/ML-Junkyard/#digit-recognizer-competition)
     * [Wine Score Predictor](https://github.com/nameisxi/ML-Junkyard/#wine-score-predictor)
-* FastAI
-    * [Lesson 1](https://github.com/nameisxi/ML-Junkyard/#lesson-1)
+* Fast.ai Deep Learning Part 1
+    * [Lesson 1: Image Recognition](https://github.com/nameisxi/ML-Junkyard/#lesson-1-image-recognition)
+    * [Lesson 2: Convolutional Neural Networks](https://github.com/nameisxi/ML-Junkyard/#lesson-2-convolutional-neural-networks)
     
 # Kaggle 
 ### House Price Prediction Exercise
@@ -23,6 +24,8 @@
 ### Wine Score Predictor
 [Wine Score Predictor predicts wines scores based on their description. First, the descriptions are weighted using TF-IDF and then stored as vectors into locality-sensitive hashing engine, where they are stored using random binary projections. Final predictions are made using KNN with distances provided by the LSH engine. This project is on hold until I have time to address the problematic scaling of TF-IDF. It turns out that 130k descriptions take a long time to compute using TF-IDF and for the time being I feel like I already accomplished everything I wanted in terms of understanding and implementing TF-IDF.](http://nbviewer.jupyter.org/github/nameisxi/ML-Junkyard/blob/master/Kaggle/Wine-Score-Predictor/TF-IDF-Pure-Python.ipynb)
 
-# FastAI
-### Lesson 1
+# Fast.ai Deep Learning Part 1
+### Lesson 1: Image Recognition
 [Exercises](http://nbviewer.jupyter.org/github/nameisxi/ML-Junkyard/blob/master/Fast-AI/lesson1-exercises.ipynb)
+### Lesson 2: Convolutional Neural Networks
+TODO
