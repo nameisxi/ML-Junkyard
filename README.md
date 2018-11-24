@@ -6,7 +6,7 @@
     * [Fashionizer](https://github.com/nameisxi/ML-Junkyard/#fashionizer)
 * Models
     * Image Recognition
-        * [Clothing Classifier (CNN - 93%)](https://github.com/nameisxi/ML-Junkyard/#clothing-classifier)
+        * [Clothing Classifier (CNN - 93%)](https://github.com/nameisxi/ML-Junkyard/#clothing-classifier-cnn---93)
     * Natural Language Processing
         * [Wine Score Predictor](https://github.com/nameisxi/ML-Junkyard/#wine-score-predictor)
 * Kaggle Competitions
