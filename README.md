@@ -6,7 +6,7 @@
     * [Fashionizer](https://github.com/nameisxi/ML-Junkyard/#fashionizer)
 * Models
     * Image Recognition
-        * [Clothing Classifier (CNN - 93%)](https://github.com/nameisxi/ML-Junkyard/#clothing-classifier-cnn---93)
+        * [Clothing Classifier (CNN - 94.05%)](https://github.com/nameisxi/ML-Junkyard/#clothing-classifier-cnn---9405)
     * Natural Language Processing
         * [Wine Score Predictor](https://github.com/nameisxi/ML-Junkyard/#wine-score-predictor)
 * Kaggle Competitions
@@ -25,7 +25,7 @@ Preprocessing includes turning uploaded image into 28x28 MNIST image that resemb
 
 # Models
 ## Image Recognition
-### Clothing Classifier (CNN - 93%)
+### Clothing Classifier (CNN - 94.05%)
 [CNN that's been trained on the Fashion MNIST dataset. Includes multiple versions implemented on Keras and FastAI.](https://github.com/nameisxi/ML-Junkyard/tree/master/Models/Clothing-Classifier)
 
 ## Natural Language Processing
