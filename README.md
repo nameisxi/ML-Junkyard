@@ -30,7 +30,7 @@ Preprocessing includes turning uploaded image into 28x28 MNIST image that resemb
 
 ## Natural Language Processing
 ### Wine Score Predictor
-[Wine Score Predictor predicts wines scores based on their description. First, the descriptions are weighted using TF-IDF and then stored as vectors into locality-sensitive hashing engine, where they are stored using random binary projections. Final predictions are made using KNN with distances provided by the LSH engine. This project is on hold until I have time to address the problematic scaling of TF-IDF. It turns out that 130k descriptions take a long time to compute using TF-IDF and for the time being I feel like I already accomplished everything I wanted in terms of understanding and implementing TF-IDF.](http://nbviewer.jupyter.org/github/nameisxi/ML-Junkyard/blob/master/Kaggle/Wine-Score-Predictor/TF-IDF-Pure-Python.ipynb)
+[Wine Score Predictor predicts wines scores based on their description. First, the descriptions are weighted using TF-IDF and then stored as vectors into locality-sensitive hashing engine, where they are stored using random binary projections. Final predictions are made using KNN with distances provided by the LSH engine. This project is on hold until I have time to address the problematic scaling of TF-IDF. It turns out that 130k descriptions take a long time to compute using TF-IDF and for the time being I feel like I already accomplished everything I wanted in terms of understanding and implementing TF-IDF.](http://nbviewer.jupyter.org/github/nameisxi/ML-Junkyard/blob/master/Models/Wine-Score-Predictor/TF-IDF-Pure-Python.ipynb)
 
 
 
