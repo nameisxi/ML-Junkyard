@@ -13,6 +13,9 @@
     * [House Price Prediction (Simple decision tree - 18K USD)](https://github.com/nameisxi/ML-Junkyard/#house-price-prediction-simple-decision-tree---18k-usd)
     * [House Price Prediction (Random forest - 10K USD)](https://github.com/nameisxi/ML-Junkyard/#house-price-prediction-random-forest---10k-usd)
     * [Digit Recognizer (KNN - 97.07%)](https://github.com/nameisxi/ML-Junkyard/#digit-recognizer-knn---9707)
+* Exercises (Textbooks)
+    * [An Introduction to Statistical Learning]()
+    * [Hands-On Machine Learning]()  
     
 
 # Projects
